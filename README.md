@@ -1,1 +1,1 @@
-# G-n-rateur-QR-code
+# Generateur-QR-code
