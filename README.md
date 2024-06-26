@@ -7,7 +7,7 @@ Application qui génère automatiquement des QR code, il suffit d'un texte où u
 
 <img width="193" alt="qr code" src="https://github.com/crashlex08/GenerateurQRcode/assets/173182804/97d3c346-244c-4156-939a-4b42f1ec520f">
 
-qui envoie vers CrashHome.
+qui envoie vers CrashHome (le site est disponible aller voir sur mon compte Gituhb) 👌.
 
 #### La page principal
 
