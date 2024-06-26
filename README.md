@@ -25,7 +25,7 @@ Magnifique page 😊.
 
 Ce site fonctionne très bien, il est extrêmement utile et satisfait un bon besoin.
 
-### Vous trouverer ci join le depolyement du site
+### Vous trouverez ci-joint le déploiement du site.
 
 
 https://crashlex08.github.io/GenerateurQRcode/
