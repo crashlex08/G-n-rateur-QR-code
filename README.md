@@ -23,3 +23,12 @@ Magnifique page 😊.
 <img width="1278" alt="Capture d’écran 2024-06-26 092449" src="https://github.com/crashlex08/GenerateurQRcode/assets/173182804/c18c6937-2ae9-453f-b6df-e2fa3754d733">
 
 
+Ce site fonctionne très bien, il est extrêmement utile et satisfait un bon besoin.
+
+### Vous trouverer ci join le depolyement du site
+
+
+https://crashlex08.github.io/GenerateurQRcode/
+
+
+
